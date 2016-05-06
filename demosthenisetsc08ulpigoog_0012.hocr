@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./demosthenisetsc08ulpigoog/demosthenisetsc08ulpigoog_0012.png"; bbox 0 0 2920 4950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 411 1867 1090 1998">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 411 1867 1090 1998">
+     <span class='ocr_line' id='line_1_1' title="bbox 411 1867 1090 1998; baseline 0.015 -48"><span class='ocrx_word' id='word_1_1' title='bbox 411 1867 957 1952; x_wconf 83' lang='lat' dir='ltr'>DEMOSTHENIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1014 1979 1018 1998; x_wconf 38' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 1086 1949 1090 1960; x_wconf 94' lang='grc'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 195 2134 1196 2258">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 195 2134 1196 2258">
+     <span class='ocr_line' id='line_1_2' title="bbox 195 2134 1196 2258; baseline -0.005 -43"><span class='ocrx_word' id='word_1_4' title='bbox 195 2135 600 2258; x_wconf 87' lang='lat' dir='ltr'><strong>ORATIONUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 643 2134 1196 2211; x_wconf 88' lang='lat' dir='ltr'>PHILIPPICARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 260 2343 1172 2492">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 260 2343 1172 2492">
+     <span class='ocr_line' id='line_1_3' title="bbox 260 2343 1172 2492; baseline -0.002 -21"><span class='ocrx_word' id='word_1_6' title='bbox 260 2343 263 2350; x_wconf 72' lang='grc'>’</span> <span class='ocrx_word' id='word_1_7' title='bbox 298 2384 806 2492; x_wconf 76' lang='lat' dir='ltr'><strong>INTERPRETATIO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 836 2383 1079 2471; x_wconf 80' lang='lat' dir='ltr'><strong>LATINA.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1170 2435 1172 2442; x_wconf 66' lang='lat'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1464 4950">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1464 4950">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1464 4950; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1464 4950; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
